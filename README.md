@@ -3,7 +3,6 @@
 
 This project is a full-stack web application that scrapes Amazon for listings of a product and compares them based on price, rating, and number of reviews, helping users find the best deal and quality available.
 
-> Disclaimer: This tool uses web scraping, which may violate Amazon’s Terms of Service. Please use it responsibly.
 
 ## Project Description
 
