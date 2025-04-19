@@ -89,4 +89,4 @@ This project is for educational/demo purposes only. Scraping websites may be aga
 
 ## Author
 
-Made with care by [Your Name]
+Ayushmaan Singh
